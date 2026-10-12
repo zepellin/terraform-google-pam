@@ -1,5 +1,30 @@
 # Changelog
 
+## [3.2.0](https://github.com/GoogleCloudPlatform/terraform-google-pam/compare/v3.1.0...v3.2.0) (2026-09-09)
+
+
+### Features
+
+* **deps:** Update Terraform google to v8 ([#42](https://github.com/GoogleCloudPlatform/terraform-google-pam/issues/42)) ([ad9c5dd](https://github.com/GoogleCloudPlatform/terraform-google-pam/commit/ad9c5dd4a17b9d965190c573fd8cf226430f0068))
+
+## [3.1.0](https://github.com/GoogleCloudPlatform/terraform-google-pam/compare/v3.0.0...v3.1.0) (2025-10-02)
+
+
+### Features
+
+* **deps:** Update Terraform google to v7 ([#34](https://github.com/GoogleCloudPlatform/terraform-google-pam/issues/34)) ([da3e01b](https://github.com/GoogleCloudPlatform/terraform-google-pam/commit/da3e01b54c16602e8a2aed715381d3e779cd0b59))
+
+## [3.0.0](https://github.com/GoogleCloudPlatform/terraform-google-pam/compare/v2.1.0...v3.0.0) (2025-07-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* added entitlement_pending_notification_recipients ([#30](https://github.com/GoogleCloudPlatform/terraform-google-pam/issues/30))
+
+### Features
+
+* added entitlement_pending_notification_recipients ([#30](https://github.com/GoogleCloudPlatform/terraform-google-pam/issues/30)) ([e11ba16](https://github.com/GoogleCloudPlatform/terraform-google-pam/commit/e11ba1684dbc1dc0d7de3a9dc0831fa0d5343333))
+
 ## [2.1.0](https://github.com/GoogleCloudPlatform/terraform-google-pam/compare/v2.0.0...v2.1.0) (2024-12-09)
 
 

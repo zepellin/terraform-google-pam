@@ -19,10 +19,10 @@ terraform {
   required_providers {
     google = {
       source  = "hashicorp/google"
-      version = ">= 6.5, < 7"
+      version = ">= 6.5, < 9"
     }
   }
   provider_meta "google" {
-    module_name = "blueprints/terraform/terraform-google-pam/v2.1.0"
+    module_name = "blueprints/terraform/terraform-google-pam/v3.2.0"
   }
 }
